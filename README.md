@@ -1,4 +1,4 @@
 # supermarket-analysis
 
 
-![supermarket-analysis](supermarket-analysis.jpg)
+![supermarket-analysis](images/supermarket-analysis.jpg)
