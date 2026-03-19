@@ -1,3 +1,3 @@
 # supermarket-analysis
 
-![supermarket-analysis](supermarket-analysis.jpg)
+![supermarket-analysis](supermarket-analysis.JPG)
